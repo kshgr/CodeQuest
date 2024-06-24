@@ -6,7 +6,7 @@ import Level1 from './components/Level1';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/CodeQuest/frontend/codequest-frontend">
       <div className="min-h-screen bg-gradient-to-b from-black to-gray-900 text-white">
         <Routes>
           <Route path="/" element={<Home />} />
