@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CodeQuest/static/css/main.25a29f68.css",
-    "main.js": "/CodeQuest/static/js/main.4852191a.js",
+    "main.js": "/CodeQuest/static/js/main.39ddb0e6.js",
     "static/js/453.35a45fa3.chunk.js": "/CodeQuest/static/js/453.35a45fa3.chunk.js",
     "index.html": "/CodeQuest/index.html",
     "main.25a29f68.css.map": "/CodeQuest/static/css/main.25a29f68.css.map",
-    "main.4852191a.js.map": "/CodeQuest/static/js/main.4852191a.js.map",
+    "main.39ddb0e6.js.map": "/CodeQuest/static/js/main.39ddb0e6.js.map",
     "453.35a45fa3.chunk.js.map": "/CodeQuest/static/js/453.35a45fa3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25a29f68.css",
-    "static/js/main.4852191a.js"
+    "static/js/main.39ddb0e6.js"
   ]
 }
