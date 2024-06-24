@@ -8,7 +8,7 @@ function Level1() {
 
   const handleSubmit = async () => {
     try {
-      const response = await axios.post('http://127.0.0.1:5001/evaluate', { code });
+      const response = await axios.post('https://codequest-74hq.onrender.com/evaluate', { code });
       setOutput(response.data.output);
       setFeedback(response.data.feedback);
     } catch (error) {
@@ -16,7 +16,7 @@ function Level1() {
       setOutput('Error!');
       setFeedback('An error occurred. Please try again.');
     }
-  };
+  };  
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-4">
