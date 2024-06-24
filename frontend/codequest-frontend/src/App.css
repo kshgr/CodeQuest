@@ -1,0 +1,21 @@
+.home, .level-selection, .level1 {
+  text-align: center;
+  margin: 20px;
+}
+
+.instructions {
+  margin: 20px;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+}
+
+button {
+  margin: 10px;
+}
+
+.output {
+  margin: 20px;
+}
