@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  
+  "homepage": "https://kshgr.tech/CodeQuest",
+  
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
