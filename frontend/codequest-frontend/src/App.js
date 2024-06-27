@@ -12,6 +12,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/levels" element={<LevelSelection />} />
           <Route path="/level1" element={<Level1 />} />
+          <Route path="/level2" element={<Level2 />} />
         </Routes>
       </div>
     </Router>
