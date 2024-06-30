@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/CodeQuest/static/css/main.cccf6071.chunk.css",
-    "main.js": "/CodeQuest/static/js/main.db35eb0f.chunk.js",
-    "main.js.map": "/CodeQuest/static/js/main.db35eb0f.chunk.js.map",
-    "runtime-main.js": "/CodeQuest/static/js/runtime-main.65565a58.js",
-    "runtime-main.js.map": "/CodeQuest/static/js/runtime-main.65565a58.js.map",
-    "static/js/2.6a2c5c72.chunk.js": "/CodeQuest/static/js/2.6a2c5c72.chunk.js",
-    "static/js/2.6a2c5c72.chunk.js.map": "/CodeQuest/static/js/2.6a2c5c72.chunk.js.map",
-    "static/js/3.d42d9922.chunk.js": "/CodeQuest/static/js/3.d42d9922.chunk.js",
-    "static/js/3.d42d9922.chunk.js.map": "/CodeQuest/static/js/3.d42d9922.chunk.js.map",
+    "main.css": "/CodeQuest/static/css/main.17f99b31.chunk.css",
+    "main.js": "/CodeQuest/static/js/main.02bacf4a.chunk.js",
+    "main.js.map": "/CodeQuest/static/js/main.02bacf4a.chunk.js.map",
+    "runtime-main.js": "/CodeQuest/static/js/runtime-main.9d3fcc45.js",
+    "runtime-main.js.map": "/CodeQuest/static/js/runtime-main.9d3fcc45.js.map",
+    "static/js/2.76a7491a.chunk.js": "/CodeQuest/static/js/2.76a7491a.chunk.js",
+    "static/js/2.76a7491a.chunk.js.map": "/CodeQuest/static/js/2.76a7491a.chunk.js.map",
     "index.html": "/CodeQuest/index.html",
-    "static/css/main.cccf6071.chunk.css.map": "/CodeQuest/static/css/main.cccf6071.chunk.css.map",
-    "static/js/2.6a2c5c72.chunk.js.LICENSE.txt": "/CodeQuest/static/js/2.6a2c5c72.chunk.js.LICENSE.txt"
+    "static/css/main.17f99b31.chunk.css.map": "/CodeQuest/static/css/main.17f99b31.chunk.css.map",
+    "static/js/2.76a7491a.chunk.js.LICENSE.txt": "/CodeQuest/static/js/2.76a7491a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65565a58.js",
-    "static/js/2.6a2c5c72.chunk.js",
-    "static/css/main.cccf6071.chunk.css",
-    "static/js/main.db35eb0f.chunk.js"
+    "static/js/runtime-main.9d3fcc45.js",
+    "static/js/2.76a7491a.chunk.js",
+    "static/css/main.17f99b31.chunk.css",
+    "static/js/main.02bacf4a.chunk.js"
   ]
 }
