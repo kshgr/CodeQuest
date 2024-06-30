@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/CodeQuest/static/css/main.25a29f68.css",
-    "main.js": "/CodeQuest/static/js/main.39ddb0e6.js",
-    "static/js/453.35a45fa3.chunk.js": "/CodeQuest/static/js/453.35a45fa3.chunk.js",
+    "main.css": "/CodeQuest/static/css/main.cccf6071.chunk.css",
+    "main.js": "/CodeQuest/static/js/main.a6dd8419.chunk.js",
+    "main.js.map": "/CodeQuest/static/js/main.a6dd8419.chunk.js.map",
+    "runtime-main.js": "/CodeQuest/static/js/runtime-main.65565a58.js",
+    "runtime-main.js.map": "/CodeQuest/static/js/runtime-main.65565a58.js.map",
+    "static/js/2.f33d778f.chunk.js": "/CodeQuest/static/js/2.f33d778f.chunk.js",
+    "static/js/2.f33d778f.chunk.js.map": "/CodeQuest/static/js/2.f33d778f.chunk.js.map",
+    "static/js/3.d42d9922.chunk.js": "/CodeQuest/static/js/3.d42d9922.chunk.js",
+    "static/js/3.d42d9922.chunk.js.map": "/CodeQuest/static/js/3.d42d9922.chunk.js.map",
     "index.html": "/CodeQuest/index.html",
-    "main.25a29f68.css.map": "/CodeQuest/static/css/main.25a29f68.css.map",
-    "main.39ddb0e6.js.map": "/CodeQuest/static/js/main.39ddb0e6.js.map",
-    "453.35a45fa3.chunk.js.map": "/CodeQuest/static/js/453.35a45fa3.chunk.js.map"
+    "static/css/main.cccf6071.chunk.css.map": "/CodeQuest/static/css/main.cccf6071.chunk.css.map",
+    "static/js/2.f33d778f.chunk.js.LICENSE.txt": "/CodeQuest/static/js/2.f33d778f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.25a29f68.css",
-    "static/js/main.39ddb0e6.js"
+    "static/js/runtime-main.65565a58.js",
+    "static/js/2.f33d778f.chunk.js",
+    "static/css/main.cccf6071.chunk.css",
+    "static/js/main.a6dd8419.chunk.js"
   ]
 }
