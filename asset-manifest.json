@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CodeQuest/static/css/main.7df292e9.css",
+    "main.css": "/CodeQuest/static/css/main.07e143c3.css",
     "main.js": "/CodeQuest/static/js/main.e57d8ffe.js",
     "index.html": "/CodeQuest/index.html",
-    "main.7df292e9.css.map": "/CodeQuest/static/css/main.7df292e9.css.map",
+    "main.07e143c3.css.map": "/CodeQuest/static/css/main.07e143c3.css.map",
     "main.e57d8ffe.js.map": "/CodeQuest/static/js/main.e57d8ffe.js.map"
   },
   "entrypoints": [
-    "static/css/main.7df292e9.css",
+    "static/css/main.07e143c3.css",
     "static/js/main.e57d8ffe.js"
   ]
 }
