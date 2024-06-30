@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .home, .level-selection, .level1 {
   text-align: center;
   margin: 20px;

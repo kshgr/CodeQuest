@@ -1,2 +1,4 @@
 
 *.pyc
+/frontend/codequest-frontend/node_modules
+/frontend/codequest-frontend/build
