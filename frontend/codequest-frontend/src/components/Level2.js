@@ -8,7 +8,7 @@ function Level2() {
 
   const handleSubmit = async () => {
     try {
-      const response = await axios.post('https://your-render-app-name.onrender.com/evaluate', { code });
+      const response = await axios.post('https://codequest-74hq.onrender.com/evaluate', { code });
       setOutput(response.data.output);
       setFeedback(response.data.feedback);
     } catch (error) {
