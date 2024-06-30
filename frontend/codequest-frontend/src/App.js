@@ -3,10 +3,11 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import LevelSelection from './components/LevelSelection';
 import Level1 from './components/Level1';
+import Level2 from './components/Level2';
 
 function App() {
   return (
-    <Router basename="/CodeQuest/frontend/codequest-frontend">
+    <Router basename="/CodeQuest">
       <div className="min-h-screen bg-gradient-to-b from-black to-gray-900 text-white">
         <Routes>
           <Route path="/" element={<Home />} />
